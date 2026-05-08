@@ -91,15 +91,18 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [049485b3e314ed21a3a9b733b4d597af](https://github.com/kiavash-sh/downloader/tree/main/downloads/049485b3e314ed21a3a9b733b4d597af)
 2 - [239835](https://github.com/kiavash-sh/downloader/tree/main/downloads/239835)
 3 - [7d502ebaf53a0c6060459ce121d64efc](https://github.com/kiavash-sh/downloader/tree/main/downloads/7d502ebaf53a0c6060459ce121d64efc)
 4 - [92ef601e66e8dd920ea4c6d6de4c7122](https://github.com/kiavash-sh/downloader/tree/main/downloads/92ef601e66e8dd920ea4c6d6de4c7122)
-5 - [Nova.App.V1](https://github.com/kiavash-sh/downloader/tree/main/downloads/Nova.App.V1)
-6 - [Nova.App.V1_theta_2669](https://github.com/kiavash-sh/downloader/tree/main/downloads/Nova.App.V1_theta_2669)
-7 - [eec9cd91d2e47333ba106eec6887bbf0](https://github.com/kiavash-sh/downloader/tree/main/downloads/eec9cd91d2e47333ba106eec6887bbf0)
-8 - [tele-mirror-win-x64](https://github.com/kiavash-sh/downloader/tree/main/downloads/tele-mirror-win-x64)
+5 - [AzuDL-GC2GD](https://github.com/kiavash-sh/downloader/tree/main/downloads/AzuDL-GC2GD)
+6 - [Nova.App.V1](https://github.com/kiavash-sh/downloader/tree/main/downloads/Nova.App.V1)
+7 - [Nova.App.V1_theta_2669](https://github.com/kiavash-sh/downloader/tree/main/downloads/Nova.App.V1_theta_2669)
+8 - [eec9cd91d2e47333ba106eec6887bbf0](https://github.com/kiavash-sh/downloader/tree/main/downloads/eec9cd91d2e47333ba106eec6887bbf0)
+9 - [tele-mirror-win-x64](https://github.com/kiavash-sh/downloader/tree/main/downloads/tele-mirror-win-x64)
 
 ---
