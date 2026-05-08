@@ -89,6 +89,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [049485b3e314ed21a3a9b733b4d597af](https://github.com/kiavash-sh/downloader/tree/main/downloads/049485b3e314ed21a3a9b733b4d597af)
@@ -98,5 +100,6 @@ a
 5 - [Nova.App.V1](https://github.com/kiavash-sh/downloader/tree/main/downloads/Nova.App.V1)
 6 - [Nova.App.V1_theta_2669](https://github.com/kiavash-sh/downloader/tree/main/downloads/Nova.App.V1_theta_2669)
 7 - [eec9cd91d2e47333ba106eec6887bbf0](https://github.com/kiavash-sh/downloader/tree/main/downloads/eec9cd91d2e47333ba106eec6887bbf0)
+8 - [tele-mirror-win-x64](https://github.com/kiavash-sh/downloader/tree/main/downloads/tele-mirror-win-x64)
 
 ---
