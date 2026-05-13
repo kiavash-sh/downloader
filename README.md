@@ -103,10 +103,13 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [Better.DNS.Jumper_0.4.1_x64-setup](https://github.com/kiavash-sh/downloader/tree/main/downloads/Better.DNS.Jumper_0.4.1_x64-setup)
-2 - [teamspeak-client](https://github.com/kiavash-sh/downloader/tree/main/downloads/teamspeak-client)
-3 - [tor-browser-windows-x86_64-portable-15.0.7](https://github.com/kiavash-sh/downloader/tree/main/downloads/tor-browser-windows-x86_64-portable-15.0.7)
+2 - [TunnelX-v1.2.24-standalone-compressed](https://github.com/kiavash-sh/downloader/tree/main/downloads/TunnelX-v1.2.24-standalone-compressed)
+3 - [teamspeak-client](https://github.com/kiavash-sh/downloader/tree/main/downloads/teamspeak-client)
+4 - [tor-browser-windows-x86_64-portable-15.0.7](https://github.com/kiavash-sh/downloader/tree/main/downloads/tor-browser-windows-x86_64-portable-15.0.7)
 
 ---
